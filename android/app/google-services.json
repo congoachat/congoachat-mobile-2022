@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "415982365502",
+    "firebase_url": "https://congo-achat.firebaseio.com",
+    "project_id": "congo-achat",
+    "storage_bucket": "congo-achat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415982365502:android:5aeedbe3ef6457841e5a6f",
+        "android_client_info": {
+          "package_name": "com.congoachatapp.app.congoachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415982365502-8l3fikh79fvcg0rv7cq56d5ud39svvh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHRzcKlDux6oT3TYYYP9HfDuyDcnRW9PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415982365502-8l3fikh79fvcg0rv7cq56d5ud39svvh1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "415982365502-2flnr0t1gl0o7ea9tt7kd1v97sa6ng6c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.CongoAchat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
